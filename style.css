@@ -1,0 +1,39 @@
+.camel{
+    background-color: orange;
+    border: thick;
+    border-color: black;
+}
+.chameleon{
+    background-color: greenyellow;
+    border: thick;
+    border-color: black;
+}
+.cicada{
+    background-color:orange;
+    border: thick;
+    border-color: black;
+}
+.panda{
+    background-color:grey;
+    border: thick;
+    border-color: black;
+}
+.pigeon{
+    background-color:lightblue;
+    border: thick;
+    border-color: black;
+}
+.teddy{
+    background-color: lightsalmon;
+    border: thick;
+    border-color: black;
+}
+h3{
+    color:white;
+}
+.top{
+    color: blue;
+    background-color:rgb(12, 199, 12);
+    border: thick;
+    border-color: black;
+}
